@@ -8,9 +8,9 @@ public class ControlStructures {
     public static void main(String[] args) {
         // A conditional loop
         if (100 < 10) {
-            System.out.print("a");
+            System.out.println("a");
         } else if (100 < 1000) {
-            System.out.print("b");
+            System.out.println("b");
         } else {
             System.out.println("c");
         }
