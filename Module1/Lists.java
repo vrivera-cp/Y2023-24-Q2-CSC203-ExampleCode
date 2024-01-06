@@ -18,6 +18,7 @@ public class Lists {
         c.add('c');
         d.add("d");
 
+        // Output
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
