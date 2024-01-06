@@ -37,11 +37,13 @@ public class ControlStructures {
         for (int k = 0; k < 10; k++) {
             System.out.print(k + " ");
         }
+        System.out.println(); // End of line
 
         // An enhanced for loop
         int[] integers = {1, 2, 3}; // An array
         for (int integer : integers) {
             System.out.print(integer + " ");
         }
+        System.out.println(); // End of line
     }
 }
